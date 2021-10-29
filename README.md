@@ -1,4 +1,5 @@
-# Dynamic Image Generator
+# gimplegang card personalization engine
+forked from the wonderful @sjohnston88 's https://github.com/sjohnston88/dynamic-image-generator repository
 
 ![Personalised Image](https://github.com/sjohnston88/dynamic-image-generator/blob/master/src/images/example.png?raw=true)
 
